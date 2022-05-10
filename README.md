@@ -1,4 +1,4 @@
-This program is simulating the motion of robotic arm of two/three planar links.
+This program is a MATLAB program simulating the motion of robotic arm of two/three planar links.
 The program includes the following modules:
 
 

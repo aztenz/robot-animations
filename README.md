@@ -3,5 +3,5 @@ The program includes the following modules:
 
 
 Direct kinematics Model
-Inverse kinematics Model
-Robot animation
+/ Inverse kinematics Model
+/ Robot animation
